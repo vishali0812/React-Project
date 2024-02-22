@@ -1,0 +1,13 @@
+1. open nodejs folder in terminal
+2. run the command "npm i".
+3. Now start the node server with the following command:
+          "node mongoserver.js"
+4. Now open another terminal without closing the previous one and run the following commands one by
+(i) "npm i"
+(ii) "npm start"
+5. pls note that you must have installed mongoDb server and mongoDb compass for the project.
+6. The home page will automatically appear when you run the above commands.
+7. Signup with your desired credentials as servant provider or servent seeker.
+8. For admin access you have to manually add entry in mongodb compass with email and password of your choice but type must be "Admin".
+9. You can have more than one Admin depend on your entries.
+10. Now you are ready with the project.
